@@ -5,6 +5,8 @@ Welcome Contrast Partners!
 
 This repo will help empower you to message and sell Contrast Security's products on our behalf. We thank you for your participation.
 
+NOTE: access to this repository and usage of its contents are reserved exclusively for registered partners of Contrast Security with mutual NDAs in place. All other usage is prohibited.
+
 # Contrast Security Overview
 
 This initial Overview section will provide you with a slide deck that will help you introduce Contrast to your customers and prospects, deliver our value proposition and messaging, and provide an overview of how our products work.
