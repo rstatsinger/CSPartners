@@ -9,7 +9,7 @@ This repo will help empower you to message and sell Contrast Security's products
 
 This initial Overview section will provide you with a slide deck that will help you introduce Contrast to your customers and prospects, deliver our value proposition and messaging, and provide an overview of how our products work.
 
-Here's a link to an overview deck that you are free to use (under NDA with both us and your prospect) in order to message Contrast:
+Here's a link to an overview deck that you are free to use (under NDA with both us and your prospect) in order to message Contrast: https://github.com/rstatsinger/CSPartners/blob/main/PartnerPitchDeckv3.pptx
 
 # Qualifying Opportunities
 
