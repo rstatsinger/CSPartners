@@ -15,8 +15,7 @@ Here's a link to an overview deck that you are free to use (under NDA with both 
 
 # Qualifying Opportunities
 
-This section will help coach you in engaging prospects to qualify and validate them as good candidates to use Contrast.
-Please refer to this document:
+Use this deck to help you understand how to qualify and validate Contrast prospects: https://github.com/rstatsinger/CSPartners/blob/main/PartnerCoaching.pptx
 
 # Initial Hands-On Technical Enablement - WebGoat lab using Contrast Community Edition and Docker
 
