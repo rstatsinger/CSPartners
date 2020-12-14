@@ -1,2 +1,2 @@
 # CSPartners
-Contrast Security Partnet Enablement
+Contrast Security Partner Enablement
