@@ -1,4 +1,4 @@
-# CSPartners
+# CS Partners Technical Enablement
 Contrast Security Partner Enablement
 
 Welcome Contrast Partners!
