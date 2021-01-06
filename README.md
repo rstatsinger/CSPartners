@@ -3,9 +3,7 @@ Contrast Security Partner Enablement
 
 Welcome Contrast Partners!
 
-This repo will help empower you to message and sell Contrast Security's products on our behalf. We thank you for your participation.
-
-NOTE: access to this repository and usage of its contents are reserved exclusively for registered partners of Contrast Security with mutual NDAs in place. All other usage is prohibited.
+This repo will help empower you to message and sell Contrast Security's products on our behalf, and help you get your hands dirty with our platform. We thank you for your participation.
 
 # Contrast Security Overview
 
